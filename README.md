@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @RojasNarcisoEdwin
-- 👀 I’m interested in .
+- 👋 Hi, I’m Edwin Rojas Narciso soy estudiante de la licenciatura en computacion 
+actualmente estoy cursando el semestres de dicha licenciatura.
+- 👀 I’m interested in 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
