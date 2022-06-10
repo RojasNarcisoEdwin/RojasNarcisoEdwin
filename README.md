@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Edwin Rojas Narciso soy estudiante de la licenciatura en computacion 
-actualmente estoy cursando el semestres de dicha licenciatura.
+actualmente estoy cursando el segundo semestres de dicga licenciatura en la 
+Univdad aAutonoma Benito Juarez De Oaxaca.
 - 👀 I’m interested in 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
