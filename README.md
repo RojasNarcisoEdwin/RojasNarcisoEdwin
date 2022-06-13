@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Edwin Rojas Narciso soy estudiante de la licenciatura en computacion 
 actualmente estoy cursando el segundo semestres de dicha Licenciatura en la Universidad Autonoma Benito Juarez De Oaxaca
 - 👀 I’m interested in 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning El lenguaje de programacion JavaScript y me imteresaria aprender mas lenguajes para aprender a progrmarar de diferente manera
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
